@@ -1,0 +1,19 @@
+thallous chloride Tl-201
+  CDK     0628171802
+
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    2.4870    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Tl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0 
+M  ISO  1   2 201
+M  END
+> <cdk:Title>
+thallous chloride Tl-201
+
+> <Conformer>
+1
+
+> <SuperDrugID>
+SD003906
+
+$$$$

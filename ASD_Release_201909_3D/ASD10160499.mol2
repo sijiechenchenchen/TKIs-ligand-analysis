@@ -1,0 +1,45 @@
+#	Name: ASD10160499
+#	Creating user name:	WinNT
+#	Creation time:	15. 06. 2019 21:26
+
+#	Modifying user name:	WinNT
+#	Modification time:	15. 06. 2019 21:26
+
+#	Program:	/corina/corina34_cracker 3.40 0067  02.08.2006
+
+@<TRIPOS>MOLECULE
+ASD10160499
+  12   12    0    0    0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+   1 C1            -0.0167     1.3830     0.0096 C.ar    
+   2 C2             0.0021    -0.0041     0.0020 C.ar    
+   3 C3             1.2266    -0.6637    -0.0132 C.ar    
+   4 C4             2.3852     0.0978    -0.0201 C.ar    
+   5 C5             2.2856     1.4787    -0.0118 C.ar    
+   6 N6             1.1073     2.0719     0.0026 N.ar    
+   7 O7            -1.1601    -0.7089     0.0098 O.3     
+   8 Cl8            3.9417    -0.6707    -0.0385 Cl      
+   9 Br9            3.8588     2.5281    -0.0205 Br      
+  10 H10           -0.9626     1.9042     0.0169 H       
+  11 H11            1.2737    -1.7426    -0.0191 H       
+  12 H12           -1.5052    -0.9081    -0.8713 H       
+@<TRIPOS>BOND
+   1    1    2 ar
+   2    1    6 ar
+   3    1   10 1
+   4    2    3 ar
+   5    2    7 1
+   6    3    4 ar
+   7    3   11 1
+   8    4    5 ar
+   9    4    8 1
+  10    5    6 ar
+  11    5    9 1
+  12    7   12 1
+
+#	End of record
+

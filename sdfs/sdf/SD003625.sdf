@@ -1,0 +1,22 @@
+hydrochloric acid
+  CDK     0628171801
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+> <cdk:Title>
+hydrochloric acid
+
+> <salt#1>
+hydrogen chloride
+
+> <salt#1 multiplicity>
+1
+
+> <Conformer>
+1
+
+> <SuperDrugID>
+SD003625
+
+$$$$

@@ -1,0 +1,30 @@
+#	Name: ASD00370005
+#	Creating user name:	WinNT
+#	Creation time:	15. 06. 2019 18:35
+
+#	Modifying user name:	WinNT
+#	Modification time:	15. 06. 2019 18:35
+
+#	Program:	/corina/corina34_cracker 3.40 0067  02.08.2006
+
+@<TRIPOS>MOLECULE
+ASD00370005
+   5    4    0    0    0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+   1 O1             0.0021    -0.0041     0.0020 O.co2   
+   2 S2            -0.0179     1.4673     0.0101 S.o2    
+   3 O3             1.3626     1.9766    -0.0003 O.co2   
+   4 O4            -0.7296     1.9547    -1.1820 O.co2   
+   5 O5            -0.7066     1.9418     1.2208 O.co2   
+@<TRIPOS>BOND
+   1    1    2 ar
+   2    2    3 ar
+   3    2    4 ar
+   4    2    5 ar
+
+#	End of record
+
